@@ -56,6 +56,9 @@ export default function Header() {
 
                                 <Link to="/about">About</Link>
                             </li>
+                            <li>
+                            <Link to="/contactUs">ContactUS</Link>
+                            </li>
                             
                             
                         </ul>
